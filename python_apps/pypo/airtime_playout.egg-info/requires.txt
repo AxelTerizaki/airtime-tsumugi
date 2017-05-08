@@ -1,0 +1,12 @@
+amqplib
+anyjson
+argparse
+configobj
+docopt
+kombu
+mutagen
+poster
+PyDispatcher
+pyinotify
+pytz
+wsgiref

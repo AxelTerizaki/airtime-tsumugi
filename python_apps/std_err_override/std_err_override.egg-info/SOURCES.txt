@@ -1,0 +1,8 @@
+setup.py
+std_err_override/LogWriter.py
+std_err_override/__init__.py
+std_err_override.egg-info/PKG-INFO
+std_err_override.egg-info/SOURCES.txt
+std_err_override.egg-info/dependency_links.txt
+std_err_override.egg-info/not-zip-safe
+std_err_override.egg-info/top_level.txt
